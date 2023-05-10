@@ -1,0 +1,6 @@
+chainconsumer_plots
+model_plots
+plots
+.idea
+.ipynb_checkpoints/
+skipped_curves.csv

@@ -4,3 +4,4 @@ plots
 .idea
 .ipynb_checkpoints/
 skipped_curves.csv
+laplace_all_timesteps

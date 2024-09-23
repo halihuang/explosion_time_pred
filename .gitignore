@@ -5,4 +5,3 @@ plots
 .ipynb_checkpoints/
 skipped_curves.csv
 laplace_all_timesteps
-processed_curves/*
